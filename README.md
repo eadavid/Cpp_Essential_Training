@@ -1,2 +1,2 @@
-# C_Training
-Notes and Samples for C Programming 
+# C++_Essential_Training
+Notes and Exercises for C++ Programming 
